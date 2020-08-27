@@ -1,0 +1,3 @@
+[submodule "ACPI"]
+	path = ACPI
+	url = https://github.com/MatrixDJ96/Hackintosh-ACPI-PCSPECIALIST-17-3-Vyper.git
